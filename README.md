@@ -11,6 +11,9 @@ int main(){
     return 0;
 }
 ```
-|Tables|TEST|
-|------|-------:|
-|1|2|
+|MarkDown|Testing|Table|
+|:------|:-------:|-----:|
+|靠左對齊|置中對齊|靠右對齊|
+|1|2|3|
+|what|are|those|
+|?|!|@|
