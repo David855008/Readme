@@ -46,13 +46,13 @@ ___
 `<img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128"/>`<br>
 <img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128" />
 # 5. 列表
-###### 使用`*`,`+`,`-`來表示
-*  <a href="https://google.com" title="Google.com">https://google.com</a>
-
-+ ![圖片替代文字](https://github.com/David855008/Readme/blob/master/AJ.jpg)
+###### 使用`*`,`+`,`-`來表示，可以加入連結和圖片
+*  `<a href="https://google.com" title="Google.com">https://google.com</a>`<br>
+<a href="https://google.com" title="Google.com">https://google.com</a>
 * test1
 * <em>test2</em>
 * <strong>test3</strong>
+
 ```c++
 #include<stdio.h>
 int main(){
