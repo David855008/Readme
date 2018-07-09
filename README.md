@@ -49,16 +49,20 @@ ___
 ###### 使用`*`,`+`,`-`來表示，可以加入連結和圖片
 *  `<a href="https://google.com" title="Google.com">https://google.com</a>`<br>
 <a href="https://google.com" title="Google.com">https://google.com</a>
-* test1
+* `<img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128"/>`<br>
+<img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128" />
 * <em>test2</em>
 * <strong>test3</strong>
-
+* 6. 引用Code
+開頭和結尾加入``````````來表示
 ```c++
+```
 #include<stdio.h>
 int main(){
     printf("hello world");
     return 0;
 }
+```
 ```
 |MarkDown|Testing|Table|
 |:-------------|:-------:|-----:|
