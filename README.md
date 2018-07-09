@@ -43,7 +43,7 @@ ___
 ***
 *  <a href="https://google.com" title="Google.com">https://google.com</a>
 
-* ![image](https://github.com/David855008/Readme/blob/master/AJ.jpg)
+* ![圖片替代文字](https://github.com/David855008/Readme/blob/master/AJ.jpg)
 * test1
 * <em>test2</em>
 * <strong>test3</strong>
