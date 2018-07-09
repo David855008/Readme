@@ -4,7 +4,8 @@ AT&amp;T
 * <a href="https://google.com" title="Google.com">google.com</a>
 * <em>test2</em>
 * <strong>test3</strong>
-```#include<stdio.h><p>
+```c++
+#include<stdio.h><p>
 int main(){
     printf("hello world");
     return 0;
