@@ -54,19 +54,26 @@ ___
 * `*test2`<br>test2<br>
 
 # 6. 引用
-###### 開頭和結尾加入`` ` ``來表示
+###### 開頭和結尾加入`` ``` ``來表示
 ```c++
-```
 #include<stdio.h>
 int main(){
     printf("hello world");
     return 0;
 }
 ```
+# 7. 表格
+```
+|MarkDown|Testing|Table|
+|:--------------|:---------:|-------:|
+|靠左對齊|置中對齊|靠右對齊|
+|1|2|3|
+|what|are|those|
+|?|!|@|
 ```
 |MarkDown|Testing|Table|
 |:-------------|:-------:|-----:|
 |靠左對齊|置中對齊|靠右對齊|
 |1|2|3|
-|what|are|those|
+|what|re|Those!!!|
 |?|!|@|
