@@ -6,6 +6,10 @@
 #### test
 ##### test
 ###### test
+Alt-H1
+======
+Alt-H2
+------
 ```
 # test
 ## test
@@ -13,6 +17,10 @@
 #### test
 ##### test
 ###### test
+Alt-H1
+======
+Alt-H2
+------
 
 
 
