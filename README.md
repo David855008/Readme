@@ -47,12 +47,11 @@ ___
 <img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128" />
 # 5. 列表
 ###### 使用`*`,`+`,`-`來表示，可以加入連結和圖片
-*  `<a href="https://google.com" title="Google.com">https://google.com</a>`<br>
+*  `* <a href="https://google.com" title="Google.com">https://google.com</a>`<br>
 <a href="https://google.com" title="Google.com">https://google.com</a>
-* `<img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128"/>`<br>
+* `* <img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128"/>`<br>
 <img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128" />
-* test2<br>
-* test3<br>
+* `*test2<br>`<br>test2<br>
 
 # 6. 引用
 ###### 開頭和結尾加入`` ` ``來表示
