@@ -2,7 +2,7 @@
 ###### 輸入<,＆時需要注意
 `AT&amp;T`AT&amp;T
 `A&lt;B`A&lt;B
-#<strong>1. 字體大小</strong>
+# 1. 字體大小
 <code># test</code>
 # test
 <code>## test</code>
