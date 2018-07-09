@@ -53,8 +53,8 @@ ___
 <img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128" />
 * <em>test2</em>
 * <strong>test3</strong>
-* 6. 引用Code
-開頭和結尾加入``````````來表示
+# 6. 引用Code
+開頭和結尾加入`````來表示
 ```c++
 ```
 #include<stdio.h>
