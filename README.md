@@ -51,10 +51,10 @@ ___
 <a href="https://google.com" title="Google.com">https://google.com</a>
 * `<img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128"/>`<br>
 <img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128" />
-* <em>test2</em>
-* <strong>test3</strong>
+* test2
+* test3
 # 6. 引用Code
-開頭和結尾加入`````來表示
+開頭和結尾加入` ` ` `來表示
 ```c++
 ```
 #include<stdio.h>
