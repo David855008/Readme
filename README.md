@@ -37,10 +37,15 @@ Alt-H2
 ***
 `___`
 ___
-#<strong>4. 網址</strong>
+#<strong>4. 連結</strong>
+#### 網頁連結：
 ###### 跟HTML相同，使用`<a herf="url"></a>`來加入連結，`title`來加入hover標題
 <a href="https://google.com" title="David">Link to Google with "David" as title</a>
-***
+#### 圖片連結：
+`![圖片替代文字](圖片或GIF的URL "Title")`
+![圖片替代文字](https://github.com/David855008/Readme/blob/master/AJ.jpg "Air Jordan")
+
+
 *  <a href="https://google.com" title="Google.com">https://google.com</a>
 
 * ![圖片替代文字](https://github.com/David855008/Readme/blob/master/AJ.jpg)
