@@ -43,7 +43,7 @@ ___
 ***
 *  <a href="https://google.com" title="Google.com">https://google.com</a>
 * ![alt 文字][logo]
-[logo]: https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/20139959_1328183553946478_2115049903098232255_n.png?_nc_fx=ftpe7-2&_nc_cat=0&oh=dfe951f8bfdd1004070a31219276072c&oe=5BE889C4 "Title"
+[logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwlfFKVrZlBb3LX8newOz0KIhNqPGm1qH7h_JR8W3DxounIqlzOw "Title"
 * test1
 * <em>test2</em>
 * <strong>test3</strong>
