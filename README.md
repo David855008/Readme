@@ -5,7 +5,7 @@ AT&amp;T
 * <em>test2</em>
 * <strong>test3</strong>
 ```c++
-#include<stdio.h><p>
+#include<stdio.h>
 int main(){
     printf("hello world");
     return 0;
