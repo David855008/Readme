@@ -42,8 +42,8 @@ ___
 <a href="https://google.com" title="David">Link to Google with "David" as title</a>
 ***
 *  <a href="https://google.com" title="Google.com">https://google.com</a>
-* ![alt 文字][logo]
-[logo]: https://github.com/David855008/Readme/blob/master/AJ.jpg "Title"
+
+* ![image](https://github.com/David855008/Readme/blob/master/AJ.jpg)
 * test1
 * <em>test2</em>
 * <strong>test3</strong>
