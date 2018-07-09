@@ -27,17 +27,17 @@ Alt-H2
 ```
 Alt-H2
 ------
-#<strong>2. 斜體粗體字</strong>
+#2. 斜體粗體字
 |Code|Result|
 |:---|:---:|
 |```*test*```<br>```_test_```|*test*<br>_test_|
 |```**test**```<br>```__test__```|**test**<br>__test__|
-#<strong>3. 一條線</strong>
+#3. 一條線
 `***`
 ***
 `___`
 ___
-#<strong>4. 連結</strong>
+#4. 連結
 #### 網頁連結：
 ###### 跟HTML相同，使用`<a herf="url"></a>`來加入連結，`title`來加入hover標題
 <a href="https://google.com" title="David">Link to Google with "David" as title</a>
