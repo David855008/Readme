@@ -51,7 +51,7 @@ ___
 <a href="https://google.com" title="Google.com">https://google.com</a>
 * `<img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128"/>`<br>
 <img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128" />
-* test2
+* test2<br>
 * test3
 # 6. 引用Code
 開頭和結尾加入` ` ` `來表示
