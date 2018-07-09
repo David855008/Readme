@@ -42,7 +42,7 @@ ___
 ###### 跟HTML相同，使用`<a herf="url"></a>`來加入連結，`title`來加入hover標題
 <a href="https://google.com" title="David">Link to Google with "David" as title</a>
 #### 圖片連結：
-`<img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128"/>`
+`<img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128"/>`<br>
 <img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128" />
 
 
