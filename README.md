@@ -53,7 +53,7 @@ ___
 <img src="https://github.com/David855008/Readme/blob/master/AJ.jpg" width="128" height="128" />
 * test2<br>
 * test3<br>
-# 6. 引用Code
+# 6. 引用程式碼
 ###### 開頭和結尾加入`` ` ``來表示
 ```c++
 ```
