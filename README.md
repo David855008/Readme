@@ -1,36 +1,50 @@
-#<strong>字型</strong>
-```
+#<strong>0. "&lt;","&amp;"需注意</strong>
+###### 輸入<,＆時需要注意
+`AT&amp;T`AT&amp;T
+`A&lt;B`A&lt;B
+#<strong>1. 字體大小</strong>
+<code># test</code>
 # test
+<code>## test</code>
 ## test
+<code>### test</code>
 ### test
+<code>#### test</code>
 #### test
+<code>##### test</code>
 ##### test
+<code>###### test</code>
 ###### test
+```
 Alt-H1
 ======
+```
+Alt-H1
+======
+```
 Alt-H2
 ------
 ```
-# test
-## test
-### test
-#### test
-##### test
-###### test
-Alt-H1
-======
 Alt-H2
 ------
-
-
-
-.....
-AT&amp;T
+#<strong>2. 斜體粗體字</strong>
+|Code|Result|
+|:---|:---:|
+|```*test*```<br>```_test_```|*test*<br>_test_|
+|```**test**```<br>```__test__```|**test**<br>__test__|
+#<strong>3. 一條線</strong>
+`***`
 ***
-by David
-______
+`___`
+___
+#<strong>4. 網址</strong>
+###### 跟HTML相同，使用`<a herf="url"></a>`來加入連結，`title`來加入hover標題
+<a href="https://google.com" title="David">Link to Google with "David" as title</a>
+***
+*  <a href="https://google.com" title="Google.com">https://google.com</a>
+* ![alt 文字][logo]
+[logo]: https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/20139959_1328183553946478_2115049903098232255_n.png?_nc_fx=ftpe7-2&_nc_cat=0&oh=dfe951f8bfdd1004070a31219276072c&oe=5BE889C4 "Title"
 * test1
-* <a href="https://google.com" title="Google.com">google.com</a>
 * <em>test2</em>
 * <strong>test3</strong>
 ```c++
