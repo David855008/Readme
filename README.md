@@ -1,8 +1,4 @@
-test
-2018.7.17 by David
-
-davidw70901@gmail.com
-AAA Intern David
+testing Project
 # 0. "&lt;","&amp;"需注意
 ###### 輸入<,＆時需要注意
 `AT&amp;T`AT&amp;T
